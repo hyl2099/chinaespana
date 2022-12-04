@@ -3,16 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="1eb780e3-8843-4f29-a543-b2438dc79e86" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department.html" beforeDir="false" afterPath="$PROJECT_DIR$/department.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/department_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/department_es.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/department_es.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/department_es.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/join_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/join_es.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/member.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/member_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/member_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memberservice.html" beforeDir="false" afterPath="$PROJECT_DIR$/memberservice.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/memberservice_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/memberservice_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/policy_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/policy_es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects_es.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects_es.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +68,36 @@
       <workItem from="1668258855572" duration="16781000" />
       <workItem from="1668332265440" duration="8353000" />
       <workItem from="1669477559335" duration="12316000" />
-      <workItem from="1670164038941" duration="1863000" />
+      <workItem from="1670164038941" duration="2499000" />
+      <workItem from="1670182387993" duration="848000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1670165950470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670165950470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
